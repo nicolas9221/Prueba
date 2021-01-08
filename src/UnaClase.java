@@ -10,9 +10,5 @@ public class UnaClase {
 		
 		System.out.println(cadena1+cadena2+cadena3+cadena4);
 		
-		
-		
-		
-		
 	}
 }
